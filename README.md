@@ -10,7 +10,7 @@
 
 <img src="https://hrcdn.net/s3_pub/istreet-assets/j3Q6jXZ3DOOPRlCs9hFcnQ/slideshow.gif" title="Slideshow App" alt="Slideshow App" width="350" height="300"/>
 
-## [Catalog Viewer](https://github.com/hackerrank-test/hackerrank-react-catalog-viewer)
+## [Catalog Viewer](https://github.com/hackerrank-test/hackerrank-react-catalog-viewer) (private)
 
 <img src="https://hrcdn.net/s3_pub/istreet-assets/mllhJWhWckgDu7PqJo6HVw/catalog-viewer-new.gif" title="Catalog Viewer" alt="Catalog Viewer" width="350" height="300"/>
 
